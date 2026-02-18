@@ -1,3 +1,2 @@
 # MPILab1
-
-demo repo
+Demo repo
